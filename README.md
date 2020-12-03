@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 ### 🖥 I work at WeMakePrice. 
 #### WeMakePrice (2020.07 ~ )
 ✔️ Data engineer (검색 랭킹 고도화 작업)<br/><br/>
-  : TopCycle (주제형 질의)
+  : Sqoop (ETL 작업) <br/><br/>
+  : TopCycle (주제형 질의) <br/><br/>
  
 #### Tech Stack
-> ❤️ Python<br/><br/>
-> 🧡 Spark<br/><br/>
-> 💛 Hadoop<br/><br/>
-> 💚 Keras<br/><br/>
-> ...<br/><br/>
+>> ❤️ Python<br/><br/>
+>> 🧡 Spark<br/><br/>
+>> 💛 Hadoop<br/><br/>
+>> 💚 Keras<br/><br/>
+>> ...<br/><br/>
 
 #### Need to study ...<br/><br/>
-> Java<br/><br/>
-> Swift<br/><br/>
-> ...<br/><br/>
+>> Java<br/><br/>
+>> Swift<br/><br/>
+>> ...<br/><br/>
