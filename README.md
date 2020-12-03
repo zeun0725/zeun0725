@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ### 🖥 I work at WeMakePrice. 
 #### WeMakePrice (2020.07 ~ )
-✔️ Data engineer (검색 랭킹 고도화 작업)
+✔️ Data engineer (검색 랭킹 고도화 작업)  
  : TopCycle (주제형 질의)
  
