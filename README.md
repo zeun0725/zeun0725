@@ -1,5 +1,4 @@
-### Jieun Park 💻
-
+## Jieun Park Developer 👩🏻‍💻
 <!--
 **zeun0725/zeun0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🖥 I work at WeMakePrice. 
-WeMakePrice (2020.07 ~ )
+### 🖥 I work at WeMakePrice. 
+#### WeMakePrice (2020.07 ~ )
 ✔️ Data engineer (검색 랭킹 고도화 작업)
  : TopCycle (주제형 질의)
  
