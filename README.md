@@ -19,3 +19,14 @@ Here are some ideas to get you started:
 ✔️ Data engineer (검색 랭킹 고도화 작업)  
   : TopCycle (주제형 질의)
  
+#### Tech Stack
+> ❤️ Python
+> 🧡 Spark
+> 💛 Hadoop
+> 💚 Keras
+> ...
+
+#### Need to study ...
+> Java
+> Swift
+> ...
