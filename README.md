@@ -21,13 +21,13 @@ Here are some ideas to get you started:
   : TopCycle (주제형 질의) <br/><br/>
  
 #### Tech Stack
->> ❤️ Python<br/><br/>
->> 🧡 Spark<br/><br/>
->> 💛 Hadoop<br/><br/>
->> 💚 Keras<br/><br/>
->> ...<br/><br/>
+> ❤️ Python<br/><br/>
+> 🧡 Spark<br/><br/>
+> 💛 Hadoop<br/><br/>
+> 💚 Keras<br/><br/>
+> ...<br/><br/>
 
 #### Need to study ...<br/><br/>
->> Java<br/><br/>
->> Swift<br/><br/>
->> ...<br/><br/>
+> Java<br/><br/>
+> Swift<br/><br/>
+> ...<br/><br/>
