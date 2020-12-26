@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   : Sqoop (ETL 작업) <br/><br/>
   : TopCycle (주제형 질의) <br/><br/>
  
- ![Jieun's github stats](https://github-readme-stats.vercel.app/api?username=zeun0725&show_icons=true&theme=dracula)
+ ![Jieun's github stats](https://github-readme-stats.vercel.app/api?username=zeun0725&show_icons=true&theme=highcontrast)
 
  
 #### Tech Stack
