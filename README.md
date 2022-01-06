@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 > Python<br/><br/>
 > Spark<br/><br/>
 > Hadoop<br/><br/>
-> Keras<br/><br/>
+> Elastic Search<br/><br/>
 > ...<br/><br/>
 
 #### Need to study ...<br/><br/>
 > Java<br/><br/>
-> Swift<br/><br/>
+> kafka<br/><br/>
 > ...<br/><br/>
