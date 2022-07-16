@@ -24,14 +24,6 @@ Here are some ideas to get you started:
  ![Jieun's github stats](https://github-readme-stats.vercel.app/api?username=zeun0725&show_icons=true&theme=highcontrast)
 
  
-#### Tech Stack
-> Python<br/><br/>
-> Spark<br/><br/>
-> Hadoop<br/><br/>
-> Elastic Search<br/><br/>
-> ...<br/><br/>
-
-#### Need to study ...<br/><br/>
-> Java<br/><br/>
-> kafka<br/><br/>
-> ...<br/><br/>
+#### Tech Stack & need to study!
+> 📝 python, spark, hadoop, elastic search <br/><br/>
+> 📝 java, kafka, ... <br/>
