@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
  
 #### Tech Stack & need to study!
-> 📝 python, spark, hadoop, elastic search <br/><br/>
-> 📝 java, kafka, ... <br/>
+> 📝 python, spark, hadoop, kafka, elastic search <br/><br/>
+> 📝 java, flink, ... <br/>
