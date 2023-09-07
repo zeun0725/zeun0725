@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🖥 I work at WeMakePrice. 
-#### WeMakePrice (2020.07 ~ )
-✔️ Data engineer (검색 랭킹 고도화 작업)<br/><br/>
-  : Sqoop (ETL 작업) <br/><br/>
-  : TopCycle (주제형 질의) <br/><br/>
-  : 키워드 인기도 랭킹 적용 <br/><br/>
+### 🖥 I work at TossBank 
+#### WeMakePrice (2020.07 ~ 2022.07)
+#### TossBank (2022.07 ~ )
  
  ![Jieun's github stats](https://github-readme-stats.vercel.app/api?username=zeun0725&show_icons=true&theme=highcontrast)
 
